@@ -83,16 +83,6 @@ python scripts/tts.py --list-voices
 
 可用 `--output` 指定完整路径输出到任意位置。
 
-## 🧩 作为 CherryStudio Skill 使用
-
-本项目可注册为 [CherryStudio](https://cherrystudio.ai/) Skill，在对话中直接触发：
-
-```bash
-# text-to-speech skill 已注册后，在对话中自动响应
-"朗读这段文字" → 自动调用 TTS 生成语音
-"生成配音" → 自动调用 TTS 生成配音文件
-```
-
 ## 📄 许可
 
 MIT License © 2026
